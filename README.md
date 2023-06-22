@@ -1,4 +1,4 @@
-# To do List 
+# To Do List 
 
 <p align="center">
  <img src="to-do-list.png">
