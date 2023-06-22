@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="w-fit px-4 flex justify-center mt-10 bg-white lg:max-w-lg lg:w-[410px] h-[500px] lg:max-h-[500px] overflow-auto rounded-lg p-6">
       <div className="mx-auto text-center px-6 rounded-lg">
-        <h1 className="text-4xl text-black font-medium mb-8">To do List</h1>
+        <h1 className="text-4xl text-black font-medium mb-8">To Do List</h1>
 
         <form onSubmit={handleForm} className="flex gap-10 mb-5">
           <input
